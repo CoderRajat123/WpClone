@@ -12,6 +12,6 @@ import static org.junit.Assert.*;
 public class ExampleUnitTest {
     @Test
     public void sub_isCorrect() {
-        assertEquals(0, 2 - 2);
+        assertEquals(0, 3 - 3);
     }
 }
